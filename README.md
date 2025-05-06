@@ -1,5 +1,18 @@
 
-This repository holds the source code for website [www.hodowla-pigmej.pl](https://hodowla-pigmej.pl).
+This repository holds the source code for website [www.hodowla-pigmej.pl](https://hodowla-pigmej.pl). 
+
+WARNING!!! Someone captured the domain and installed new content!!! 
+
+I'm still developing the AKWA-MARKET platform...
+
+See for example:
+
+[wwww.aquamix-libuszewski.pl](https://www.aquamix-libuszewski.pl). 
+
+[www.cetarius.eu](https://www.cetarius.eu). 
+
+[www.borzoo.pl](https://www.borzoo.pl). 
+
 
 Version 0.1 is based on CodeIgniter4-4.4.5.
 This website is fetching data of single user from external service AKWA-MARKET.PL.
